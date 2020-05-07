@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem "sinatra"
+gem "uuid"
 
 group :development, :test do
   gem "rerun"

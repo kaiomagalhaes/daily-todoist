@@ -1,4 +1,7 @@
+require 'dotenv/load'
 require 'sinatra'
+
+require './todoist'
 
 before do
   content_type :json
@@ -11,7 +14,10 @@ def render_json json
   response.body = JSON.dump(json)
 end
 
-get '/' do
+get '/todoist/:templateId' do
+  templateId = params["templateId"]
+
+  Todoist.new(templateId).run()
   render_json({status: 200})
 end
 

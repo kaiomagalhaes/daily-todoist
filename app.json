@@ -1,6 +1,6 @@
 {
-  "name": "[Purpose] Automation",
-  "description": "A base project to deploy your automations",
-  "repository": "https://github.com/codelittinc/base-automations-project.git",
+  "name": "Daily todoist",
+  "description": "A daily todoist project",
+  "repository": "https://github.com/kaiomagalhaes/daily-todoist.git",
   "keywords": ["ruby"]
 }
