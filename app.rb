@@ -1,4 +1,5 @@
-require 'dotenv/load'
+require 'dotenv/load' if File.exists?('./.env')
+
 require 'sinatra'
 
 require './todoist'
