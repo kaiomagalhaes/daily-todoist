@@ -11,31 +11,25 @@
         "name": "Start Toggle"
       },
       {
-        "name": "Create 10 products ideas"
-      },
-      {
-        "name": "Review PRs"
-      },
-      {
-        "name": "Review calendar and prepare tasks for any meeting"
-      },
-      {
-        "name": "Clean emails"
-      },
-      {
-        "name": "Review work mentions"
-      },
-      {
         "name": "Review personal goals"
       },
       {
         "name": "Review company goals"
       },
       {
+        "name": "Address emails"
+      },
+      {
+        "name": "Prepare myself for today's meetings"
+      },
+      {
+        "name": "Review work mentions"
+      },
+      {
         "name": "Schedule deep work time"
       },
       {
-        "name": "Prioritize daily tasks"
+        "name": "Prioritize tasks"
       }
     ]
   },
