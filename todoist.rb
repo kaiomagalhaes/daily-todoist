@@ -40,7 +40,8 @@ class Todoist
           content: name,
           project_id: projectId,
           parent_id: parentId,
-          due: (due ? dueObject : {})
+          due: (due ? dueObject : {}),
+          priority: 1
         }
       }
     ]
