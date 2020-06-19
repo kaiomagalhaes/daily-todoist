@@ -36,6 +36,7 @@ class Todoist
         type: 'item_add',
         temp_id: uuid,
         uuid: uuid,
+        priority: 1
         args: {
           content: name,
           project_id: projectId,
