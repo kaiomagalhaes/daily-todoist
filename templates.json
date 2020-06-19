@@ -20,30 +20,36 @@
         "name": "Address emails"
       },
       {
-        "name": "Prepare myself for today's meetings"
-      },
-      {
         "name": "Review work mentions"
       },
       {
-        "name": "Review personal tasks"
+        "name": "Review Personal tasks"
       },
       {
-        "name": "Schedule deep work time"
+        "name": "Review Work tasks"
       },
       {
         "name": "Prioritize tasks"
+      },
+      {
+        "name": "Prepare myself for today's meetings"
       }
     ]
   },
   {
     "id": 2,
     "projectName": "👨‍🚀 Work",
-    "due": "today at 5pm",
+    "due": "today at 2pm",
     "task": {
       "name": "End day"
     },
     "subtasks": [
+      {
+        "name": "Review Emails"
+      },
+      {
+        "name": "Plan next day"
+      },
       {
         "name": "Review PRs"
       },

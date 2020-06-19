@@ -36,13 +36,12 @@ class Todoist
         type: 'item_add',
         temp_id: uuid,
         uuid: uuid,
-        priority: 1
         args: {
+          priority: 4,
           content: name,
           project_id: projectId,
           parent_id: parentId,
           due: (due ? dueObject : {}),
-          priority: 1
         }
       }
     ]
