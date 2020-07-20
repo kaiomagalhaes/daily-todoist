@@ -11,12 +11,6 @@
         "name": "Start Toggle"
       },
       {
-        "name": "Review personal goals"
-      },
-      {
-        "name": "Review company goals"
-      },
-      {
         "name": "Address emails"
       },
       {
@@ -42,16 +36,7 @@
     },
     "subtasks": [
       {
-        "name": "Review Emails"
-      },
-      {
-        "name": "Plan next day"
-      },
-      {
         "name": "Review PRs"
-      },
-      {
-        "name": "Stop Toggle"
       }
     ]
   }
